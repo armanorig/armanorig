@@ -175,7 +175,8 @@ section{
     filter: drop-shadow(0 0 10px #077b32);
 }
 .skills{
-    background: black;
+    background: rgb(0, 0, 0);
+    color: rgb(240, 240, 240);
 }
 
 .skills h2{
@@ -187,7 +188,7 @@ section{
 
 .skills .container{
     background: #5bb450;
-    color: white;
+    color: rgb(240, 240, 240);
     border-radius: 1rem;
     padding: 2rem;
     width: 30%;
